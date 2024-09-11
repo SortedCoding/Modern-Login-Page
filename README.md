@@ -8,10 +8,10 @@ click on the link to see  ([Open in Youtube]()),
 # Screenshot
 Here we have project screenshot :
 
-![screenshot](screenshot.png)
-![screenshot](screenshot1.png)
-![screenshot](screenshot2.png)
-![screenshot](screenshot3.png)
+![screenshot](Screenshot.png)
+![screenshot](Screenshot1.png)
+![screenshot](Screenshot2.png)
+![screenshot](Screenshot3.png)
 
 # SortedCoding
 
